@@ -1,5 +1,4 @@
 ---
-hardwrap: true
 layout: page
 title: Welcome To The Internet's Hottest New Interactive Resume!
 subtitle: |
