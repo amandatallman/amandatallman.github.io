@@ -1,9 +1,11 @@
 ---
+hardwrap: true
 layout: page
 title: Welcome To The Internet's Hottest New Interactive Resume!
 subtitle: |
   This Portfolio Has Everything!
-  Excel Spreadsheets, PowerPoint Presentations, Task Checklists,<br><Br> Mail Merge Templates To Make Office Life Easier.  
+  Excel Spreadsheets, PowerPoint Presentations, Task Checklists, 
+  Mail Merge Templates To Make Office Life Easier.  
 ---
 
 My name is 100% not Inigo Montoya. I have the following qualities:
