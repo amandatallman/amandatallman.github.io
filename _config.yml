@@ -20,9 +20,8 @@ author: Amanda M. Tallman
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Degrees & Awards:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #leave here as example for now  - Learn markdown: "https://www.markdowntutorial.com/"
   MS Office Samples:
   Research & Reports:
   Blog Samples:
@@ -261,7 +260,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
