@@ -21,10 +21,14 @@ author: Amanda M. Tallman
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Degrees:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Awards & Recognition:
+  Checklist Samples:
+  Excel Samples: 
+  PowerPoint Samples:
+  Research & Reports:
 
 ################
 # --- Logo --- #
