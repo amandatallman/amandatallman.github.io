@@ -12,7 +12,7 @@ My name is 100% not Inigo Montoya. I have the following qualities:
 - I definitely don't rock a great mustache
 - I'm extremely loyal to my internet family
 
-What does this all mean?
+What does this all mean? <br>
 It means that the about me section is coming soon!
 
 ### My story
