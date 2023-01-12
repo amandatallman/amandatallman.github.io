@@ -293,5 +293,4 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 paginate_path: "/blogs/page:num/"
-kramdown:
-  hard_wrap: true
+markdown: kramdown
