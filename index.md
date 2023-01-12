@@ -1,7 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Welcome To The Internet's Hottest New Interactive Resume!
+subtitle: |
+This Portfolio Has Everything!
+Excel Spreadsheets, PowerPoint Presentations, Task Checklists,
+Mail Merge Templates To Make Office Life Easier.
 ---
 
 My name is Inigo Montoya. I have the following qualities:
