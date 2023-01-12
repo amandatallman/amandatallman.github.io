@@ -7,12 +7,13 @@ subtitle: |
   Mail Merge Templates To Make Office Life Easier.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is 100% not Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I definitely don't rock a great mustache
+- I'm extremely loyal to my internet family
 
-What else do you need?
+What does this all mean?
+It means that the about me section is coming soon!
 
 ### My story
 
