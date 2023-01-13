@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Coding Practice Page
+subtitle: Check out My New Experemints In Coding Here!
 ---
 
 <iframe src="https://drive.google.com/file/d/1r_judp8ATHuLVNw4kXGu_hqrW0uJIHNG/preview" width="640" height="480" allow="autoplay"></iframe>
