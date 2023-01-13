@@ -22,7 +22,7 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
         var adobeDCView = new AdobeDC.View({clientId: "c54db441c1f649a8b2a724cbf8918ffc", divId: "adobe-dc-view"});
         adobeDCView.previewFile(
        {
-          content:   {location: {url: "https://documentservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
+          content:   {location: {url: "https://github.com/amandatallman/work-samples/blob/3e5e4a2c84b3f88748aa9c8cce819704e26aad1b/McIntosh%20AMT.pdf"}},
           metaData: {fileName: "Bodea Brochure.pdf"}
        });
     });
