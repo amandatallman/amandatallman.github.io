@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: page
 title: Coding Practice Page
 subtitle: Check out My New Experemints In Coding Here!
 ---
 
+## Inline Frame for PDF
 <iframe src="https://drive.google.com/file/d/1r_judp8ATHuLVNw4kXGu_hqrW0uJIHNG/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## PDF Example with iFrame - Not Working
 <html>
   <head>
     <title>Title of the document</title>
@@ -17,6 +19,7 @@ subtitle: Check out My New Experemints In Coding Here!
   </body>
 </html>
 
+## PDF Sample Using Adobe - Invisible?
 <div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
@@ -24,7 +27,7 @@ subtitle: Check out My New Experemints In Coding Here!
 		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://github.com/amandatallman/work-samples/blob/d4ce4e1fcaedd67c3a4540e4640b7b9fb2204e6e/degrees/College%20Awards.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
+			metaData:{fileName: "College Awards.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
