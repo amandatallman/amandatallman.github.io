@@ -3,6 +3,7 @@ layout: page
 title: Coding Practice Page
 subtitle: Check out My New Experemints In Coding Here!
 ---
+To see the current code for this page <a href="https://github.com/amandatallman/amandatallman.github.io/blob/28c360e3d6233a139563372facec5ce0fe1e52a2/practice.md">click here.</a>
 
 ## Inline Frame for PDF
 ### This box was made using Google Drive as a document repository instead of GitHub. 
