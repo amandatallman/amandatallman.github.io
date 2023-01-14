@@ -16,8 +16,7 @@ To see the current code for this page <a href="https://github.com/amandatallman/
   </head>
   <body>
     <h1>PDF Example with iframe</h1>
-    <iframe src="https://drive.google.com/file/d/1M3xdLBnFBdBh725aAKVpyvZjSl0D0hK7/view?usp=share_link" width="100%" height="500px">
-    </iframe>
+   <iframe src="https://drive.google.com/file/d/15vkZhkHdK3yKRH0EySlgyCuEYJ75KU89/preview" width="640" height="480" allow="autoplay"></iframe>
   </body>
 </html>
 
