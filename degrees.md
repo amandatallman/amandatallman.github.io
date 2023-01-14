@@ -13,7 +13,7 @@ subtitle: College Credentials, Academic Awards, Workplace Recognition
 
 # Awards & Recognition
 ## Phi Theta Kappa
-<iframe src="https://drive.google.com/file/d/1xwIavINFcT24snDFMDK88_29a3TKMYWQ/preview" width="600" height="800" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1xwIavINFcT24snDFMDK88_29a3TKMYWQ/preview" width="800" height="600" allow="autoplay"></iframe>
 
 ## Miscellaneous College Recognition
 <iframe src="https://drive.google.com/file/d/1FfiKgeHzbTZ4Y4ofy8ZsWMgSVK6Vdtro/preview" width="600" height="800" allow="autoplay"></iframe>
