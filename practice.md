@@ -7,15 +7,4 @@ To see the current code for this page <a href="https://github.com/amandatallman/
 
 ## Inline Frame for PDF
 ### This box was made using Google Drive as a document repository instead of GitHub. 
-<iframe src="https://drive.google.com/file/d/15vkZhkHdK3yKRH0EySlgyCuEYJ75KU89/preview" width="640" height="480" allow="autoplay"></iframe>
-
-## PDF Example with iFrame - Not Working
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <h1>PDF Example with iframe</h1>
-   <iframe src="https://drive.google.com/file/d/15vkZhkHdK3yKRH0EySlgyCuEYJ75KU89/preview" width="640" height="480" allow="autoplay"></iframe>
-  </body>
-</html>
+<iframe src="https://drive.google.com/file/d/15vkZhkHdK3yKRH0EySlgyCuEYJ75KU89/preview" width="640" height="800" allow="autoplay"></iframe>
