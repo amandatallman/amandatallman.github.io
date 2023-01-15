@@ -14,4 +14,4 @@ subtitle: Past Content Writing Projects
 <iframe src="https://drive.google.com/file/d/1qyjb6HVStwRifIDTa22m2tYzIX9GN1mf/preview" width="600" height="800" allow="autoplay"></iframe><br></br>
 
 ## Things To Do In St. Louis: March 2016
-<iframe src="https://drive.google.com/file/d/1N6SxrntaVYMUT54v-c7wdRdqVhvH9YNt/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1N6SxrntaVYMUT54v-c7wdRdqVhvH9YNt/preview" width="600" height="800" allow="autoplay"></iframe>
