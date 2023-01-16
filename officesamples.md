@@ -4,6 +4,9 @@ title: Templates and Job Aids
 subtitle: College Credentials, Academic Awards, Workplace Recognition
 ---
 
+## Sample Procedure
+<iframe src="https://drive.google.com/file/d/15k-w62pe1oGM8N5C-xyQH9Tj6VCA5h7Y/preview" width="800" height="600" allow="autoplay"></iframe>
+
 ## Task List For Restaurant Dishwasher
 <iframe src="https://drive.google.com/file/d/15vkZhkHdK3yKRH0EySlgyCuEYJ75KU89/preview" width="800" height="600" allow="autoplay"></iframe>
 
