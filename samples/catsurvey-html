@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>How Much Do You Like Your Cat?</title>
+  <link rel="css" href="styles.css" />
+  </head>
+<body>
+  <h1 id="title"><u>How Much Do You Like Your Cat?</u></h1>
+  <p id="description">Do you love your cat as much as we love ours? Let us know is this survey!</p>
+  <form id="survey-form">
+    <fieldset>
+      <h2> First, The Basics!</h2>
+    <label for="name" id="name-label">What's the name of your cat?<input id="name" type="text" required placeholder="Merry B. Snoopas"></label>
+    
+    <label for="number" id="number-label">How old is your cat? <input id="number" name="age" type="number" required min="0" max="99" placeholder="2"/></label>
+<hr class="solid">
+          <h2>Do you have more than one cat?</h2>
+        <label for="more-than-one"><input id="more-than-one" type="radio" name="multi-cat" class="inline" value="No" />No</label>
+        <label for="one-cat"><input id="one-cat" type="radio" name="multi-cat" class="inline" value="yes"/>Yes</label>
+        <label for="crazy"><input id="crazy" type="radio" name="multi-cat" class="inline" value="crazy"/>I'm a crazy cat person!</label>
+        </label>
+<hr class="solid">
+<h2><label for="bio">How much do you like your fabulous feline?
+          <textarea id="bio" name="bio" rows="3" cols="30" placeholder="I absolutely adore my cat Merry B. Snoopas."></textarea></h2>
+          <hr class="solid">
+<h2>Tell us about yourself!</h2>
+<label for="email" id="email-label">Enter Your Email: <input id="email" name="email" type="email" required placeholder="yourname@yourcompany.com"/></label>
+
+         <label for="referrer">How did you hear about us?
+          <select id="dropdown" name="referrer">
+            <option value="">(select one)</option>
+            <option value="1">Vets Office</option>
+            <option value="2">Reddit</option>
+            <option value="3">A Funny Meme</option>
+            <option value="4">Other</option>
+          </select>
+
+          
+           <label for="more-info">
+          <input id="more-info" type="checkbox" name="more-info" class="inline" value="more-info"/> I would like to get more information about this awesome cat survey!
+
+        <label for="terms-and-conditions">
+          <input id="terms-and-conditions" type="checkbox" required name="terms-and-conditions" class="inline" value="terms"/> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a>
+
+ <input type="submit" id="submit" value="Submit You Survey!" />
+    </form>
+    </fieldset>
+  </body>
+  </html>
