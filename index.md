@@ -14,4 +14,4 @@ From that point on I've always taken a keen interest in figuring stuff out. From
 
 What can I say? I'm just a lifelong learner. I like to make things as efficient for myself as possible, while at the same time being as accurate in what I do. 
 
-Also, in case you were wondering, Christopher Pike is the answer to the Kirk vs. Picard question and Han Solo _always_ shoots first.
+Also, in case you were wondering, Christopher Pike is the answer to the Kirk vs. Picard debate.
