@@ -4,15 +4,9 @@
 <a href="https://github.com/amandatallman" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/auntieyosu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/amanda-tallman" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/yosukette" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 
 
@@ -26,7 +20,7 @@ Today I use this same enthusiasm for learning to figure out everything from how 
 
 What can I say? I'm just a lifelong learner. I like to make things as efficient for myself as possible, while at the same time being as accurate in what I do. 
 
-Also, in case you were wondering, Christopher Pike is the answer to the Kirk vs. Picard question and Han Solo shot first.  
+Also, in case you were wondering, Christopher Pike is the answer to the Kirk vs. Picard debate.  
   
 
 <br/>  
