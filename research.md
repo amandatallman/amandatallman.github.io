@@ -8,6 +8,8 @@ subtitle: Undergraduate Level Research, Graduate Level Research, and Workplace P
 - <a href="https://drive.google.com/file/d/1TcfkHl5Cea3zwrpp-0LDqDxI5UyBTLsz/view?usp=drivesdk">Activity Based Costing Short Paper  </a>
 - <a href="https://drive.google.com/file/d/1kE6pHYm8xSBJqHqP4kBnBY8hqVQvZl8u/view?usp=drivesdk">Cost Structures and Variances Memo</a>
 - <a href="https://drive.google.com/file/d/1tMDDb5CAd8BW117Mtj4llL5Tq7sRqM7S/view?usp=drivesdk">Costing System Memo</a>
+- <a href="https://docs.google.com/presentation/d/15hTBd6VPIJEzpi1hdWz8jtA-1xR-WtG2/edit?usp=drivesdk&ouid=102427882220971061718&rtpof=true&sd=true">Break Even Analysis Presentation</a>
+- <a href="https://docs.google.com/presentation/d/1_VHLuE7Gwb7vOFsRdduZ2NJTeuckpRD_/edit?usp=drivesdk&ouid=102427882220971061718&rtpof=true&sd=true">Break Even Analysis vs. Master Budget Presentation</a>
 
 ## Marketing Research
 - <a href="https://docs.google.com/spreadsheets/d/1t7SmhDaaZzZiLLNDj72M04Gt2kUYwbaX/edit?usp=sharing&ouid=102427882220971061718&rtpof=true&sd=true">General Motors SWOT Analysis</a>
