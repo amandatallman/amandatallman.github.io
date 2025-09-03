@@ -3,6 +3,11 @@ layout: page
 title: Research, Reports, and Projects
 subtitle: Undergraduate Level Research, Graduate Level Research, and Workplace Projects
 ---
+## Accounting
+- <a href="https://drive.google.com/file/d/1-eUsexAgYSBaEJkqCRG4C8xHsC1vw2c3/view?usp=drivesdk">Cost Structure Analysis Short Paper</a>
+- <a href="https://drive.google.com/file/d/1TcfkHl5Cea3zwrpp-0LDqDxI5UyBTLsz/view?usp=drivesdk">Activity Based Costing Short Paper  </a>
+- <a href="https://drive.google.com/file/d/1kE6pHYm8xSBJqHqP4kBnBY8hqVQvZl8u/view?usp=drivesdk">Cost Structures and Variances Memo</a>
+- <a href="https://drive.google.com/file/d/1tMDDb5CAd8BW117Mtj4llL5Tq7sRqM7S/view?usp=drivesdk">Costing System Memo</a>
 
 ## Marketing Research
 - <a href="https://docs.google.com/spreadsheets/d/1t7SmhDaaZzZiLLNDj72M04Gt2kUYwbaX/edit?usp=sharing&ouid=102427882220971061718&rtpof=true&sd=true">General Motors SWOT Analysis</a>
