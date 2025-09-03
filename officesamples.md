@@ -4,6 +4,9 @@ title: Templates and Job Aids
 subtitle: College Credentials, Academic Awards, Workplace Recognition
 ---
 
+## Sample Job Aid
+<iframe src="https://drive.google.com/file/d/1S0eBarDfAS4PvK7alazyoVaczJqkSkPA/view?usp=drivesdk"></iframe>
+
 ## Sample Procedure
 <iframe src="https://drive.google.com/file/d/15k-w62pe1oGM8N5C-xyQH9Tj6VCA5h7Y/preview" width="800" height="600" allow="autoplay"></iframe>
 
