@@ -7,12 +7,17 @@ subtitle: Undergraduate Level Research, Graduate Level Research, and Workplace P
 - <a href="https://drive.google.com/file/d/1-eUsexAgYSBaEJkqCRG4C8xHsC1vw2c3/view?usp=drivesdk">Cost Structure Analysis Short Paper</a>
 - <a href="https://drive.google.com/file/d/1TcfkHl5Cea3zwrpp-0LDqDxI5UyBTLsz/view?usp=drivesdk">Activity Based Costing Short Paper  </a>
 - <a href="https://drive.google.com/file/d/1kE6pHYm8xSBJqHqP4kBnBY8hqVQvZl8u/view?usp=drivesdk">Cost Structures and Variances Memo</a>
+- <a href="https://drive.google.com/file/d/1HEZ4G2OKBGSe32ClIfk2q7HV6ouqRVih/view?usp=drivesdk">Capital Budget Analysis Sample Email</a>
 - <a href="https://drive.google.com/file/d/1tMDDb5CAd8BW117Mtj4llL5Tq7sRqM7S/view?usp=drivesdk">Costing System Memo</a>
 - <a href="https://docs.google.com/presentation/d/15hTBd6VPIJEzpi1hdWz8jtA-1xR-WtG2/edit?usp=drivesdk&ouid=102427882220971061718&rtpof=true&sd=true">Break Even Analysis Presentation</a>
 - <a href="https://docs.google.com/presentation/d/1_VHLuE7Gwb7vOFsRdduZ2NJTeuckpRD_/edit?usp=drivesdk&ouid=102427882220971061718&rtpof=true&sd=true">Break Even Analysis vs. Master Budget Presentation</a>
+- <a href="https://docs.google.com/presentation/d/1A40Jg_8wBRNar1Xjqvb7fnntM1CzoPX_/edit?usp=drivesdk&ouid=102427882220971061718&rtpof=true&sd=true">Master Budget and Operating Cycle Presentation</a>
 
 ## Marketing Research
-- <a href="https://docs.google.com/spreadsheets/d/1t7SmhDaaZzZiLLNDj72M04Gt2kUYwbaX/edit?usp=sharing&ouid=102427882220971061718&rtpof=true&sd=true">General Motors SWOT Analysis</a>
+- <a href="https://drive.google.com/file/d/1jF36qrc42tcF1YP6SAUA2HYiy3WiET54/view?usp=drivesdk">Miami Valley Gaming Marketing Analysis</a>
+- <a href="https://drive.google.com/file/d/1rXkRKOvcRXOFh3Z1xxOJfGxATxcghAko/view?usp=drivesdk">Models of Buyer Behavior</a>
+- <a href="https://drive.google.com/file/d/1DTCT7m-j5L4kocsUc2ys96zti1HylHm7/view?usp=drivesdk">Product Life Cycle</a>
+- <a href="https://drive.google.com/file/d/1s1YMLx_KKLcWAZvNvIliqimq85454OU8/view?usp=drivesdk">Warby Parker Pricing Strategy</a>
 
 ## Finance
 - <a href="https://docs.google.com/spreadsheets/d/1bYJx_k5_BtzvDdC20qsJUsOiVTt0eP8x/edit?usp=sharing&ouid=102427882220971061718&rtpof=true&sd=true">General Motors Financial Ratios</a>
@@ -22,7 +27,7 @@ subtitle: Undergraduate Level Research, Graduate Level Research, and Workplace P
 - <a href="https://drive.google.com/file/d/1ceI8Lefgr7URzDRTHDa9-iQi3AzkzT0S/view?usp=sharing">Strategic Plan Implementation - Colonial Williamsburg</a>
 - <a href="https://drive.google.com/file/d/1c7qOwkfgJqXUdRluX2xHdlxYD5DeLeYi/view?usp=sharing">Leading Change at Mascoma Savings Bank</a>
 - <a href="https://drive.google.com/file/d/1NQ8mFDhi0vpIykfgkbkA1Vh5tXLJ9GHJ/view?usp=sharing">Debit Card Reissue Fees at Mascoma Savings Bank</a>
-
+- <a href="https://docs.google.com/spreadsheets/d/1t7SmhDaaZzZiLLNDj72M04Gt2kUYwbaX/edit?usp=sharing&ouid=102427882220971061718&rtpof=true&sd=true">General Motors SWOT Analysis</a>
 
 ## Case Studies
 - <a href="https://drive.google.com/file/d/1RNZ52ghG87a5Zj2S4-h2S5fLL2V38Dj5/view?usp=sharing">The Temptation of Facebook</a>
