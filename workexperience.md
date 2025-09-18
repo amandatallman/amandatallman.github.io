@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Work Experience, Skills,  and Education
 subtitle: My Experience, Skills, and Education At A Glance
 ---
