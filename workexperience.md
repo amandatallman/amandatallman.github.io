@@ -26,7 +26,7 @@ Analytical, process-driven professional with expertise in auditing, operations, 
 ### Miami Valley Gaming & Racing, Lebanon OH 
 - Lead Revenue Auditor / April 2025 – Present
 - Audit Supervisor / December 2023 – April 2025 
-** Delegate daily tasks to staff to ensure all relevant audits are completed; Hire and train staff and review staffing levels to ensure adequate coverage; Interview, hire, evaluate, and train employees; Review audit activities and projects with finance team; Reviews audit policies and procedures to ensure compliance with state and federal regulations as well as Generally Accepted Accounting Principles (GAAP); Monthly account reconciliations for all revenue audit related accounts. 
+  *Delegate daily tasks to staff to ensure all relevant audits are completed; Hire and train staff and review staffing levels to ensure adequate coverage; Interview, hire, evaluate, and train employees; Review audit activities and projects with finance team; Reviews audit policies and procedures to ensure compliance with state and federal regulations as well as Generally Accepted Accounting Principles (GAAP); Monthly account reconciliations for all revenue audit related accounts. 
 
 ## Miami Valley Gaming & Racing, Lebanon OH 
 - Revenue Auditor / February 2023 – December 2023 
